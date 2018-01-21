@@ -54,9 +54,9 @@
 		F2333EE02014269E00FF1B90 /* SP 21 Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				F2333EE52014269E00FF1B90 /* Main.storyboard */,
 				F2333EE12014269E00FF1B90 /* AppDelegate.swift */,
 				F2333EE32014269E00FF1B90 /* ViewController.swift */,
-				F2333EE52014269E00FF1B90 /* Main.storyboard */,
 				F2333EE82014269E00FF1B90 /* Assets.xcassets */,
 				F2333EEA2014269E00FF1B90 /* LaunchScreen.storyboard */,
 				F2333EED2014269E00FF1B90 /* Info.plist */,
